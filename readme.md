@@ -1,3 +1,2 @@
 
-test
-
+--with-sdl --with-theora
